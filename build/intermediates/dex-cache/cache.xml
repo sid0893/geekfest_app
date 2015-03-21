@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-919538100df889723be8bbe6671dbbb247fbbe96.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-d3fd5fbeb16954a2bb950bf4207b351002f8d129.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-e2f534951a09164b5dc8eb0fa6e85e9cb8397d18.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-ec3d53e70b32108dfb56100e2e40540a3ee00797.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-a8b2f2de49465af10c803eefe135a10c4bd8eeba.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-f6262280fb1b6f23c9a96ab0a421d924b82e7464.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-59222e0b266a3f01d1e506cf4dd81980c05bb22e.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-d5233505b445dd8f174fee467d3977921f38ea49.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-940c6e5b9a60dd7dcc782bba2f25e331834d1388.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-bad47d411268f047175ffe438930c6839ad1894d.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-476f1a4f0a70fa1f196fa0fe97b7e06a4d94dbf1.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-25403c3cc90f393758825c1c2eb02844fdd9804e.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-99610af5025d05e11a063741fc89ecca4447f852.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-c3dd7ba7914f430ae172fb5b392b75b657256f80.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-d74ad6f919c372aaf87c9ed38f4d8248dd179081.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-0a94d9f06f4463cc209ec4b2f9a63f85dd901e55.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-14456ea8ccfea4618d35b6b974f66cfc17527ba4.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-6fdc707fecbac75e71d62516c48b8bd70ba56f08.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-74f5445307a41a876aaad5f688c9cabc23ad6e77.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-da437c4c4aa86a25fdd426a9bfb514949d8e936a.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-82423875265de2def211906209935e1f139c3d9d.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-c69176bf777e868e909e4a96aa5d192ce685cf80.jar" />
+    </item>
+    <item
+        jar="D:\geekfest\test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\geekfest\test\app\build\intermediates\pre-dexed\debug\classes-737998938e820fb401fb96e70394c3d54dd92308.jar" />
+    </item>
+
+</items>

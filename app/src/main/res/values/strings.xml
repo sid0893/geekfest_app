@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_request">Request</string>
+
+    <string-array name="nav_drawer">
+        <item>Admin Login</item>
+        <item>Tell a friend about App</item>
+        <item>About us</item>
+    </string-array>
+
+    <string-array name="ferti">
+        <item>DAP</item>
+        <item>MAP</item>
+        <item>MOP</item>
+        <item>NPK</item>
+        <item>SSP</item>
+        <item>TSP</item>
+        <item>Urea</item>
+    </string-array>
+
+</resources>
