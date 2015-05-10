@@ -83,9 +83,16 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 21 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="ibmcloudcode" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-22.0.0" level="project" />
+    <orderEntry type="library" exported="" name="opencsv-3.3" level="project" />
+    <orderEntry type="library" exported="" name="ibmpush" level="project" />
+    <orderEntry type="library" exported="" name="ibmlocation" level="project" />
+    <orderEntry type="library" exported="" name="ibmdata" level="project" />
     <orderEntry type="library" exported="" name="support-v4-22.0.0" level="project" />
+    <orderEntry type="library" exported="" name="ibmbluemix" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-22.0.0" level="project" />
+    <orderEntry type="library" exported="" name="ibmfilesync" level="project" />
   </component>
 </module>
 
